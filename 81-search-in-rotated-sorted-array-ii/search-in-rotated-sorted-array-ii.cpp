@@ -37,3 +37,11 @@ public:
         return binary_search(nums.begin(), nums.end(), target);
     }
 };
+
+
+
+
+
+
+
+
